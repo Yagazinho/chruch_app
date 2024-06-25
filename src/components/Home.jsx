@@ -3,6 +3,7 @@ import Nav from './Nav'
 import { Button } from 'react-bootstrap'
 import { BsCameraVideoFill } from 'react-icons/bs'
 import About from './About'
+import Footer from './Footer'
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
       </div>
     </div>
     <About />
+    <Footer />
     </>
   )
 }
