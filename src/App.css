@@ -3,8 +3,6 @@
 * {
   margin: 0;
   padding: 0;
-  overflow-y: hidden;
-  overflow-x: hidden;
 }
 
 body {
@@ -88,7 +86,7 @@ body {
 
   .navbar-nav {
     position: fixed;
-    top: 7vh;
+    top: 0;
     right: 0;
     width: 45% !important;
     background-color: rgb(33, 37, 41) !important;
