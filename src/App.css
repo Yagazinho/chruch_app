@@ -99,4 +99,8 @@ body {
     z-index: 99;
     transition: 0.5s ease-in !important;
   }
+
+  .navbar li a {
+    padding: 1.2rem 0 !important;
+  }
 }
